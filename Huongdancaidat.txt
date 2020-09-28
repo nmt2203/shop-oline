@@ -1,0 +1,4 @@
+1.	Giải nén và để thư mục tại folder htdocs
+2.	Tạo database có tên là bookshoponline , import dữ liệu từ file sql trong thư mục DoAnTH02
+3.	Mở trang web http://localhost:8080/DoAnTH02/ là vào trang chủ , tài khoản người dùng test thử là , tài khoản khactung , mật khẩu 1
+4.	Mở trang quản lý http://localhost:8080/DoAnTH02/Admin/ , tài khoản quản lý để test thử , tài khoản trandinh, mật khẩu 1
